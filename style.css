@@ -24,20 +24,3 @@ p {
 div {
     padding: 25px 100px 75px 100px;
 }
-
-#element1 {
-    display: inline-block;
-    margin-right: 10px;
-}
-
-#element2 {
-    display: inline-block;
-}
-
-#list {
-    clear: both;
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    display: flex
-}
