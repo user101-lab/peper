@@ -1,8 +1,22 @@
+@font-face {
+    font-family: 'dosis.bold';
+    src: url('https://www.1001fonts.com/download/font/dosis.bold.ttf');
+}
+
+@font-face {
+    font-family: 'dosis.medium';
+    src: url('https://www.1001fonts.com/download/font/dosis.medium.ttf');
+}
+
 body {
     background-color: rgb(38, 38, 41);
 }
 
 h1 {
-    color: whitesmoke;
+    color: rgb(187, 197, 255);
     margin-top: 20px;
+}
+
+p {
+    color: rgb(255, 255, 255);
 }
